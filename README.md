@@ -4,6 +4,31 @@
 
 
 
+<p align="center">
+  <a href="https://github.com/teslacoretc/fusion366labs">
+    <img src="https://img.shields.io/badge/FUSION%20366%20LABS-007bff?style=for-the-badge&labelColor=000000" alt="FUSION 366 LABS" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/teslacoretc/linuxworkbench">
+    <img src="https://img.shields.io/badge/LINUX%20WORKBENCH-007bff?style=for-the-badge&labelColor=000000" alt="LINUX WORKBENCH" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/teslacoretc/resources">
+    <img src="https://img.shields.io/badge/RESOURCES-007bff?style=for-the-badge&labelColor=000000" alt="RESOURCES" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/teslacoretc/downloads">
+    <img src="https://img.shields.io/badge/DOWNLOADS-007bff?style=for-the-badge&labelColor=000000" alt="DOWNLOADS" style="margin: 10px;">
+  </a>
+</p>
+
+
+
+
+
+<br>
+<br>
+
+
+
+
 ----------
 
 > 
@@ -193,6 +218,7 @@ The platform equips individuals and organizations with the skills needed to secu
 
 ----------
 
+
 <h3 align="center">FOLLOW US ON</h3>
 <div align="center">
   <a href="https://github.com/teslacoretc">
@@ -204,10 +230,14 @@ The platform equips individuals and organizations with the skills needed to secu
   <a href="https://www.instagram.com/teslacoretc/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="https://www.linkedin.com/in/teslacoretc">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://hub.docker.com/u/teslacoretc">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   </a>
 </div>
+
 
 ----------
 
@@ -563,6 +593,34 @@ As we look to the future, we are reminded of **Tesla's words: "The present is th
 ----------
 
 
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<p align="center">
+  <a href="https://github.com/teslacoretc/fusion366labs">
+    <img src="https://img.shields.io/badge/FUSION%20366%20LABS-007bff?style=for-the-badge&labelColor=000000" alt="FUSION 366 LABS" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/teslacoretc/linuxworkbench">
+    <img src="https://img.shields.io/badge/LINUX%20WORKBENCH-007bff?style=for-the-badge&labelColor=000000" alt="LINUX WORKBENCH" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/teslacoretc/resources">
+    <img src="https://img.shields.io/badge/RESOURCES-007bff?style=for-the-badge&labelColor=000000" alt="RESOURCES" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/teslacoretc/downloads">
+    <img src="https://img.shields.io/badge/DOWNLOADS-007bff?style=for-the-badge&labelColor=000000" alt="DOWNLOADS" style="margin: 10px;">
+  </a>
+</p>
 
 
 
