@@ -4,6 +4,31 @@
 
 
 
+<p align="center">
+  <a href="https://github.com/teslacoretc/fusion366labs">
+    <img src="https://img.shields.io/badge/FUSION%20366%20LABS-007bff?style=for-the-badge&labelColor=000000" alt="FUSION 366 LABS" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/teslacoretc/linuxworkbench">
+    <img src="https://img.shields.io/badge/LINUX%20WORKBENCH-007bff?style=for-the-badge&labelColor=000000" alt="LINUX WORKBENCH" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/teslacoretc/resources">
+    <img src="https://img.shields.io/badge/RESOURCES-007bff?style=for-the-badge&labelColor=000000" alt="RESOURCES" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/teslacoretc/downloads">
+    <img src="https://img.shields.io/badge/DOWNLOADS-007bff?style=for-the-badge&labelColor=000000" alt="DOWNLOADS" style="margin: 10px;">
+  </a>
+</p>
+
+
+
+
+
+<br>
+<br>
+
+
+
+
 ----------
 
 > 
@@ -564,6 +589,38 @@ As we look to the future, we are reminded of **Tesla's words: "The present is th
 
 
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+ 
+
+
+<p align="center">
+  <a href="https://github.com/teslacoretc/fusion366labs">
+    <img src="https://img.shields.io/badge/FUSION%20366%20LABS-007bff?style=for-the-badge&labelColor=000000" alt="FUSION 366 LABS" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/teslacoretc/linuxworkbench">
+    <img src="https://img.shields.io/badge/LINUX%20WORKBENCH-007bff?style=for-the-badge&labelColor=000000" alt="LINUX WORKBENCH" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/teslacoretc/resources">
+    <img src="https://img.shields.io/badge/RESOURCES-007bff?style=for-the-badge&labelColor=000000" alt="RESOURCES" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/teslacoretc/downloads">
+    <img src="https://img.shields.io/badge/DOWNLOADS-007bff?style=for-the-badge&labelColor=000000" alt="DOWNLOADS" style="margin: 10px;">
+  </a>
+</p>
+
+ 
 
 
 <br>
