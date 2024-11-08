@@ -16,11 +16,9 @@
 
 ----------
 
-
 <p style="text-align: center;">
-   <img src="https://drive.google.com/uc?export=view&id=1I8ZD_cJr3ajlrvglyGakVT6pFqPm8zZN" alt="Image">
+   <img src="https://drive.google.com/uc?export=view&id=1o27ihc4d82yMNgXkOJcV3XLiSmnfj5Cb" alt="Image">
 </p>
-
 
 ----------
 
@@ -146,6 +144,10 @@ TESLACORE operates a decentralized network of labs, empowering professionals, re
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 <h2 align="center">MEMBERSHIP AND COLLABORATION</h2>
@@ -172,8 +174,11 @@ At TESLACORE, our motto is simple: <b>Innovate, Adapt, and Overcome</b>—leadin
 
  
 <br>
-<br>
-<br>
+
+<p style="text-align: center;">
+   <img src="https://drive.google.com/uc?export=view&id=1MonBtyCdcaHjBAiKZgA7lW1ueCjU3rvt" alt="Image">
+</p>
+
 <br>
 
 
@@ -241,6 +246,10 @@ TESLACORE CONSORTIUM’s Work-Life Freedom Framework provides a foundation for g
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 <h2 align="center">IDEOLOGIES</h2>
@@ -253,7 +262,10 @@ TESLACORE CONSORTIUM’s Work-Life Freedom Framework provides a foundation for g
 > "IN THE FORGE OF HUMAN STRUGGLE, IDEOLOGIES EMERGE AS IMMORTAL FORCES, SURPASSING THE CONSTRAINTS OF FLESH AND BONE TO COMMAND HEARTS AND MINDS. THEY BREAK FREE FROM CHAINS, TRANSCEND BORDERS, AND DEFY EVEN DEATH ITSELF."
 
 
-<br>
+<p style="text-align: center;">
+   <img src="https://drive.google.com/uc?export=view&id=1eltRSCbl7Ctg7cqanQgX9B4jVhqnvQp-" alt="Image">
+</p>
+
 
  
 - **Open Source Mastery:** We are dedicated to unraveling the inner workings of successful open-source projects, fostering collaboration, and embracing shared innovation. By contributing to and learning from the open-source community, we drive progress and create robust, reliable solutions.
@@ -288,6 +300,10 @@ TESLACORE CONSORTIUM’s Work-Life Freedom Framework provides a foundation for g
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -299,9 +315,12 @@ TESLACORE CONSORTIUM’s Work-Life Freedom Framework provides a foundation for g
 
 > "INNOVATION, ROOTED IN STEADFAST PRINCIPLES—QUALITY, CUSTOMER FOCUS, TEAM EMPOWERMENT, RELENTLESS IMPROVEMENT, AND BOUNDLESS OPTIMISM—DRIVES US FORWARD. IN OUR COMMUNITY, WE CHART A COURSE FOR SUCCESS WITH UNSHAKABLE DEDICATION AND RESOLVE."
 
-<br>
 
- 
+<p style="text-align: center;">
+   <img src="https://drive.google.com/uc?export=view&id=1uZ9LMu4pecpLwsy0RhCy88vPj73cPKdv" alt="Image">
+</p>
+
+
 - **Foster Coaching Excellence:** In today's dynamic landscape, leaders must embrace coaching skills to nurture growth. Cultivating a coaching mindset entails welcoming constructive feedback and encouraging upward input to identify areas for improvement. Active listening, a pivotal coaching skill, enables us to understand team members deeply and empathize with their challenges, equipping us to provide effective support.
 
 - **Empower and Encourage Autonomy:** Effective leaders strike a balance between providing direction and granting autonomy. By establishing clear team goals, we offer transparency on objectives, aligning individual contributions with broader business success. Empowerment involves entrusting employees with the freedom to execute tasks independently, fostering a culture of trust and enabling them to leverage their strengths for professional growth.
@@ -355,6 +374,10 @@ TESLACORE CONSORTIUM’s Work-Life Freedom Framework provides a foundation for g
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -362,6 +385,11 @@ TESLACORE CONSORTIUM’s Work-Life Freedom Framework provides a foundation for g
 
 
 <br>
+
+
+<p style="text-align: center;">
+   <img src="https://drive.google.com/uc?export=view&id=1nbkyT3WZEgcNQs4qgzYfYwBK-OxK41SS" alt="Image">
+</p>
 
 
 | Guideline                          | Description                                                                                                                                                          |
@@ -393,12 +421,24 @@ TESLACORE CONSORTIUM’s Work-Life Freedom Framework provides a foundation for g
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 
 <h2 align="center">SECURITY POLICIES</h2>
 
 <br>
+
+> **TESLACORE Security Motto**: *“Collaborate with Care, Innovate with Integrity.”*  These guidelines ensure that TESLACORE remains a secure, respectful, and innovative space for advancing tomorrow’s technology.
+
+
+<p style="text-align: center;">
+   <img src="https://drive.google.com/uc?export=view&id=13FnNTuai0M91H3jKmCUOpyb3Y3gWTWDX" alt="Image">
+</p>
+
 
 
 
@@ -439,7 +479,6 @@ TESLACORE is committed to sustainable technology practices, encouraging members 
 Members are expected to uphold these security policies and guidelines at all times. Violations may result in disciplinary action, including restricted access, revocation of membership privileges, or legal action if warranted. TESLACORE strives for a collaborative environment where each member takes responsibility for safeguarding shared resources.
 
  
-> **TESLACORE Security Motto**: *“Collaborate with Care, Innovate with Integrity.”*  These guidelines ensure that TESLACORE remains a secure, respectful, and innovative space for advancing tomorrow’s technology.
 
 
  
@@ -505,3 +544,58 @@ As we look to the future, we are reminded of **Tesla's words: "The present is th
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+<h3 align="center">📊</h3>
+
+ 
+
+<br>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=teslacoretc&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=teslacoretc&theme=transparent&hide_border=false" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teslacoretc&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+<br>
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<br>
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=teslacoretc&theme=transparent&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+<br>
+
+<h3 align="center">✍️ Random Dev Quote/h3>
+
+<br>
+
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=light" />
+</div>
+
+<br>
+
+<h3 align="center">\🔝 Top Contributed Repo</h3>
+
+<br>
+
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=teslacoretc&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
+</div>
+
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=teslacoretc&icon=0&color=1)](https://visitcount.itsvg.in)
+ 
+ 
